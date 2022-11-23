@@ -119,5 +119,5 @@ void	ft_parsing(t_shell *shell)
 		if (shell->is_error)
 			return ;
 	}
-	ft_print_lst(token);
+	//ft_print_lst(token);
 }
